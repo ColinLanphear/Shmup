@@ -1,2 +1,0 @@
-# Shmup
-shmup project

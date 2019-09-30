@@ -1,0 +1,2 @@
+# Tour de FRICK Shmup
+For brainstorming, I wanted to turn shmups on their head. Most of my ideas relied on enemies coming from non-traditional places or making a shmup with RPG or Battle Royale aspects. These ideas were a little too large of a scope so I turned to resource management which can make for a fun experience. I didn't have a theme and spaceships are boring (said no one ever until now). Setting my final game is a bicycle race creates a weird dynamic of what people think a shmup should be.  
